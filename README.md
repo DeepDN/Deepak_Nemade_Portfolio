@@ -16,7 +16,7 @@
 
 ## Demo
 
-To view the demo: **[click here](https://deepak-portfolio-beta-ebon.vercel.app/)**
+To view the demo: **[click here](https://deepak-portfolio-three.vercel.app/)**
 
 ## Why do you need a portfolio? ☝️
 
@@ -42,7 +42,7 @@ From your command line, first clone Dev Portfolio:
 
 ```bash
 # Clone the repository
-$ git clone https://github.com/mayankagarwal09/dev-portfolio
+$ git clone https://github.com/DeepDN/Deepak_Nemade_Portfolio.git
 
 # Move into the repository
 $ cd dev-portfolio
