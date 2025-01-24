@@ -1,9 +1,8 @@
-# Dev Portfolio  [![GitHub](https://img.shields.io/github/license/mayankagarwal09/dev-portfolio?color=blue)](https://github.com/mayankagarwal09/dev-portfolio/blob/master/LICENSE.md) ![visitors](https://visitor-badge.glitch.me/badge?page_id=mayankagarwal09.dev-portfolio&color=blue)
-
+# Deepak Portfolio  
 ## A minimal portfolio template for Developers!
 
 <h2 align="center">
-  <img src="https://github.com/mayankagarwal09/dev-portfolio/blob/master/images/dev-portfolio.gif" alt="Dev Portfolio" />
+  <img src="https://github.com/DeepDN/Deepak_Nemade_Portfolio/blob/master/images/dev-portfolio.gif" alt="Dev Portfolio" />
   <br>
 </h2>
 
@@ -17,7 +16,7 @@
 
 ## Demo
 
-To view the demo: **[click here](https://dev-portfolio-mayankagarwal09.vercel.app)**
+To view the demo: **[click here](https://deepak-portfolio-beta-ebon.vercel.app/)**
 
 ## Why do you need a portfolio? ☝️
 
@@ -545,17 +544,14 @@ Once you finish your setup. You need to put your website online!
 
 I highly recommend to use [Vercel](https://vercel.app) because it is super easy.
 
-## Notable Portfolios made using this template
-
-- [Mayank Agarwal](https://mayankagarwal09.com)
 
 ## Authors
 
-- **Mayank Agarwal** - [https://github.com/mayankagarwal09](https://github.com/mayankagarwal09)
+- **Deepak Nemade** - [https://github.com/DeepDN/Deepak_Nemade_Portfolio](https://github.com/DeepDN/Deepak_Nemade_Portfolio)
 
 ## Support
 
-If you find a bug, feel free to [open an issue](https://github.com/mayankagarwal09/dev-portfolio/issues) in this repository.
+If you find a bug, feel free to [open an issue](https://github.com/DeepDN/Deepak_Nemade_Portfolio/issues) in this repository.
 
 ## License 📄
 
