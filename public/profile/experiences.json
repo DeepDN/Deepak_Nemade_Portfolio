@@ -1,33 +1,42 @@
 {
     "experiences": [
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
+            "title": "Network and System Administrator",
+            "subtitle": "Ayanwork Technology Solutions Pvt. Ltd",
             "workType": "Full-time",
             "workDescription": [
-                "Integrated **2** new product.",
-                "Worked on adding **def** to **bcd**. Improved speed by 50%."
+                "Manage cloud infrastructure using Amazon Web Services (AWS) and Google Cloud Platform (GCP), ensuring optimal performance and security.",
+                "Implement DevOps principles with tools like Git and Jenkins, creating CI/CD pipelines to accelerate releases, enhance collaboration, and improve software quality.",
+                "Oversee domain and SSL certificate management with registrars such as Route 53, GoDaddy, and Namecheap.",
+                "Handle asset management, network administration, and user account management to maintain organizational efficiency."
+                
             ],
-            "dateText": "06/20XX – Present"
+            "dateText": "07/2023 – Present"
+          
         },
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
-            "workType": "Internship",
+            "title": "Network Engineer",
+            "subtitle": "Decision Machines Pvt. Ltd, Pune",
+            "workType": "Full-time",
             "workDescription": [
-                "Worked on abc."
+                "Managed data center and branch connectivity, ensuring seamless operations and network reliability.",
+                "Relocated the office data center to Yotta Infrastructure, overseeing the colocation process and ensuring smooth server activation.",
+                "Handled and optimized various AWS services, enhancing their configurations for improved performance and reliability."
             ],
-            "dateText": "01/20XX – 05/20XX"
+            "dateText": "12/2021 – 07/2023"
         },
         {
-            "title": "App Developer",
-            "subtitle": "ABC Pvt Ltd",
-            "workType": "Freelance",
+            "title": "Network Engineer",
+            "subtitle": "Computech Engineers, Pune",
+            "workType": "Full-time",
             "workDescription": [
-                "Developed the official apps for the startup for both Android and iOS using hybrid framework.",
-                "Done bcd work."
+                "Provided technical support for prestigious institutions, including COEP Pune, IISER Pune, Sadhu Vaswani International School Pune, and NCL Pune.",
+                "Managed and maintained Cisco networking equipment, including: \n Cisco Catalyst 6807 7-slot core switch \n Cisco Catalyst C6509 and C4506-E switches" ,
+                "Configured and optimized Radware load balancers to ensure reliable network traffic management.",
+                "Deployed and maintained Unibox wireless devices, Access Points, Distribution switches, and Access switches, establishing robust wireless networks.",
+                "Demonstrated expertise with Cisco 10G and 1G fiber modules, ensuring high-speed data transmission and efficient connectivity."
             ],
-            "dateText": "09/20XX – 01/20YY"
+            "dateText": "06/2021 – 12/2021"
         }
     ]
 }
